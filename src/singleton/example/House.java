@@ -14,4 +14,7 @@ public class House {
     public void methodC(){
         System.out.println("Print");
     }
+    public void methodRiadh(){
+        System.out.println("Hello guys,This is Riadh");
+    }
 }
